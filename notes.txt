@@ -1,0 +1,100 @@
+HTML 
+
+frontend ---> (HTML,css,js) (any frontend library - bootstrap) react( Facebook), Angular (Google)
+
+project1(a) with CRUD OPERATIONS --- 
+C -data creation send to database
+R - read the data from database 
+U - update the data 
+D - Delete the data 
+
+Project 1 (b)- Fetch the data to the frontend using the backend APIs
+
+
+
+backend --->
+
+database --->
+
+software ---> web development 
+
+domains 
+
+medical domain
+
+education domain 
+
+banking
+
+inscruance
+
+fintech 
+
+ecommernce 
+
+HTMl - 
+
+<HTML>
+
+TML - 
+
+tags 
+
+attributes
+
+values 
+
+
+<> --> opening tags
+</> --> closing tags
+
+</ >  ---> self closing tag 
+
+Web app contents 
+
+header part 
+
+body part 
+
+footer part
+
+
+css 
+css command line **/
+types of css
+inline css ,internal css, externalcss
+
+what is benefit of external css the link didnot need seperate the pages for 10 pages
+
+colour: name, rgb values[], hexa decimal values ,hsl values
+font families are haven mostly used sans sereif;
+
+font size are mentions in pixels [px]
+also mentioned in percentage and 
+1em = 100 pixels maximum used in em 
+font weight: bold: italic 
+
+
+borders styles are in solid , double , dashed , doted 
+insert and outsert are having 
+ somes  having nature of  border 
+border thicknees and border radius,
+border bottom means bottom of the page have coloured and having to customized the left and right 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
