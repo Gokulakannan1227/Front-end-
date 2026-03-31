@@ -81,4 +81,18 @@ insert and outsert are having
 border thicknees and border radius,
 border bottom means bottom of the page have coloured and having to customized the left and right
 
-26/3/2026
+30/3/2026
+
+pseudo classes 
+pseudo-classes select elements in a special state or position, while pseudo-elements target and style a specific part of an element or insert virtual content
+
+key difference
+aspect           pseudo                                   pseudo elements  
+syntax           single colon                             double colon 
+purpose          existing elements                        virutal part of an elementor inserted 
+                  based on position                       generated content
+ analogy         Behaves as if a class were               Behaves as if a new HTML element
+                 dynamically added to the element.        were added to the markup.
+ Examples        :hover, :visited, :first-child,          ::before, ::after, ::first-line, ::selection
+                 :checked                             
+
