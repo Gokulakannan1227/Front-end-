@@ -97,3 +97,9 @@ purpose          existing elements                        virutal part of an ele
                  :checked                             
 
 31.3.2026
+flex box  formed used grid view 
+flex box are alternate for grid view 
+
+
+1.4.2026
+animations 
