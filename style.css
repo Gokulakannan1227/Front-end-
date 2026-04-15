@@ -32,7 +32,8 @@ p {
 
 .even {
     color: gold;
-}  *
+}
+*/
 
 #h1 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -200,7 +201,7 @@ body {
     top: 25px;
     left: 25px;
 
-}  */
+}
 
 #container {
     border: 2px solid;
@@ -386,7 +387,7 @@ p::selection {
     width: 100%;
     height: auto;
 }
- */
+ 
  .container {
     display: flex;
     border: 10px solid;
@@ -417,9 +418,7 @@ p::selection {
     flex-wrap: wrap;
    align-content: flex-start;
    column-gap: 1em;
-   row-gap: 1em; */
-   
-
+   row-gap: 1em;
  }
 
  .box {
@@ -441,4 +440,25 @@ p::selection {
  }
  #box4 {
     background-color: lightpink;
- } 
+ }
+
+ .box {
+    width: 150px;
+    height: 150px;
+    font-size: 8em;
+    text-align: center;
+    border-radius: 5px;
+ }
+
+ #box1 {
+    background-color: lightblue;
+ }
+ #box2 {
+    background-color: lightgreen;
+ }
+ #box3 {
+    background-color: lightsalmon;
+ }
+ #box4 {
+    background-color: lightpink;
+ }

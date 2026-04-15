@@ -103,3 +103,29 @@ flex box are alternate for grid view
 
 1.4.2026
 animations 
+animation size fade trnasform duration 
+
+java script 
+it is programming lang browser scripting is lang 
+script in internal java script 
+js is a external java script 
+
+
+15.4.2026
+arrary is fundamental data structure used to store a data
+
+spread operator - ... are the symbol 
+allows to iterate such as arrary or string to be expand into an seperate element(unpacked the elements)
+ differnet data sturuture but identical values 
+
+rest parameters --- (...rest)- allows a function work with variable number of arguments by bundling them into arrary
+spread - expands an arrray 
+rest - 
+parameters are functions receiving end 
+function funcl(Parameters){
+
+}
+funl(arguments);
+
+
+callbacks --  a function that is passed as a arguments to another function
