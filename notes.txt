@@ -129,3 +129,11 @@ funl(arguments);
 
 
 callbacks --  a function that is passed as a arguments to another function
+use to handle the asynchoronous OPERATIONS
+
+reading the file 
+network requests
+interacting with database
+api calling 
+
+"hey, when you done, call this next "
