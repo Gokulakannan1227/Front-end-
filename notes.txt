@@ -140,3 +140,48 @@ api calling
 
 17.4.2026
 timeout 
+
+arrow functions  -- concise way to write a function expression, good for simple function that you use only once 
+(parameters) -
+
+
+interview quetion arrow function, function expression 
+
+OOPS --> 
+
+Principle of object oriented Programming 
+
+Abstraction  --> hiding the internal details showing the required details
+Encapsulation --> 
+Inheritance  --> 
+polymorphism --> specialation, generalization
+
+
+class vs object 
+class and object inn javascript
+
+20.4.2026
+
+object in javascript --> a collection of related properties and /or methods can represent real world objects (people,student, places , product)
+
+objects {key:value,function()}
+definition -->its can represents real world connections 
+this -- reference to the object where this is used (the object depends on the immediate context )
+
+
+using sql is more important unique context 
+
+famous interview questions constructors
+constructors -->  a special or special method for define in properties and methods of objects which are have common properties
+
+classes --> ES6 features - provides more structured and cleaner ways to work with objects compared to traditional constructor functions
+
+Ex : Static keyword , Encapsulation , Inheritance, 
+
+21.4.2026
+
+Static  - keyword that defines properties or methodthat  beyond the  class itself rather them than the object created from that class (class owns anything static , not the object )
+
+
+
+
